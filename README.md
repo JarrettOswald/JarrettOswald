@@ -6,20 +6,23 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JarrettOswald&theme=solarized_dark)
 
 ### Skills
+|                                                                                                     |     |
+|:---------------------------------------------------------------------------------------------------:|:---:|
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />     |
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gitlab.svg" />   |
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postgresql.svg"/>|
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/spring.svg" />   |
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ubuntu.svg" />   |
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postman.svg" />  |
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg"/>|
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jenkins.svg" />  |
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/puppeteer.svg" />|
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/macos.svg"/>     |
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />   |
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/selenium.svg" /> |
+|<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windows.svg" />  |
 
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gitlab.svg" /> 
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postgresql.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/spring.svg" /> 
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ubuntu.svg" /> 
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postman.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg"/>
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jenkins.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/puppeteer.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/macos.svg"/>
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/selenium.svg" />
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windows.svg" />
+
 Citrus 
 JUnit
 SelenideTestNG
